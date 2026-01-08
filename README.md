@@ -12,5 +12,6 @@ I have a strong analytical foundation and a growing hands-on focus on applying m
 🌱I believe in learning by building, making mistakes, and improving step by step.
 
 ---
+[Python](#3776AB)
 
 
