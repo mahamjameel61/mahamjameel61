@@ -9,6 +9,6 @@ I have a strong analytical foundation and a growing hands-on focus on applying m
 - Building end-to-end ML projects (from data to deployment)
 - Deep Learning fundamentals
 
-🌱 -I believe in learning by building, making mistakes, and improving step by step.
+- 🌱I believe in learning by building, making mistakes, and improving step by step.
 
 
