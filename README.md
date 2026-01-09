@@ -13,6 +13,8 @@ I have a strong analytical foundation and a growing hands-on focus on applying m
 
 ---
 ### Data Science / Machine Learning / Deep Learning
+I work with Python-based tools for data analysis and machine learning, focusing on data preprocessing, model building, and evaluation using real-world datasets.
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
