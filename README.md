@@ -1,86 +1,102 @@
-## Hi there, I'm Maham 👋
-#### 🤖 Building practical AI applications • 📊 Exploring Machine Learning • 🎓 Empowering people through AI education
-I'm passionate about transforming AI from research into real-world solutions—whether that's building intelligent applications, experimenting with machine learning models, or helping others understand and confidently use AI.
+# <h1 align="center">Hi 👋, I'm Maham</h1>
+
+<h3 align="center">
+🤖 AI Engineer • Machine Learning Developer • Generative AI Trainer
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=800&lines=Building+Practical+AI+Applications;Machine+Learning+%26+Deep+Learning;Generative+AI+Trainer;Turning+Ideas+into+Intelligent+Solutions" />
+</p>
 
 ---
-## About Me
-I'm a Mathematics graduate with majors in **Data Science and Machine Learning**, passionate about designing AI systems that solve real-world problems.
-Currently, I work as a **Generative AI Trainer**, delivering AI training sessions for both technical and non-technical teams. I enjoy translating complex AI concepts into practical knowledge that developers, business professionals, and beginners can immediately apply.
-Alongside training, I build end-to-end AI and Machine Learning applications—from data preprocessing and model development to API development and deployment. I believe the best way to learn AI is by building, experimenting, and continuously improving.
-I'm interested in the future of intelligent systems where machine learning, human-centered design, and automation come together to create meaningful experiences.
+# 🚀 About Me
+I'm a **Mathematics graduate** specializing in **Data Science** and **Machine Learning**, passionate about transforming AI research into practical, real-world solutions.
+Currently, I work as a **Generative AI Trainer**, helping both technical and non-technical professionals understand and confidently apply Artificial Intelligence.
+Alongside teaching, I build **end-to-end AI applications**—from data preprocessing and model development to API development and deployment.
+I enjoy solving problems through intelligent systems and believe the best way to master AI is by **building, experimenting, and continuously learning.**
 
 ---
-## 🚀 What I'm Currently Focused On
-- 🤖 Building end-to-end AI/ML & LLM applications
-- 🧠 Learning advanced Deep Learning architectures
-- ⚡ Developing scalable AI APIs with FastAPI
-- 🌐 Exploring production-ready AI deployment
-- 🎓 Designing engaging AI learning experiences and training sessions
-- 📚 Continuously expanding my knowledge through hands-on projects
+## 🌱 Currently Focused On
+* 🤖 End-to-End AI & Machine Learning Applications
+* 🧠 Large Language Models (LLMs)
+* ⚡ FastAPI & AI API Development
+* ☁️ Production-Ready AI Deployment
+* 🎓 AI Education & Technical Training
+* 📚 Hands-on Learning & Open Source
 
 ---
-## 🌱 Core Interests
-- 📊 Machine Learning & Deep Learning
-- 💬 Natural Language Processing (NLP)
-- 🎨 Creative Generative AI
-- ⚙️ AI Automation & Intelligent Agents
-- 👩‍🏫 AI Education & Technical Training
-- 📈 Applied Data Science
-- 🔬 Human-Centered AI
+## 💡 Core Interests
+* 📊 Machine Learning
+* 🧠 Deep Learning
+* 💬 Natural Language Processing (NLP)
+* ✨ Generative AI
+* ⚙️ AI Automation
+* 🤖 Intelligent Agents
+* 📈 Applied Data Science
+* 🎨 Human-Centered AI
 
 ---
 ## 🛠️ Tech Stack
-### Data Science / Machine Learning / Deep Learning / Artificial Intelligence
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+### 💻 Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
 
 ---
-### ⚙️ Backend Development & Deployment
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![FastAPI Cloud](https://img.shields.io/badge/FastAPI%20Cloud-009688?style=for-the-badge)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+### 🤖 AI / Machine Learning
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,sklearn,tensorflow,matplotlib" />
+</p>
 
 ---
-### 🎨 Frontend & Deployment
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+### ⚙️ Backend Development
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,sqlite" />
+</p>
+
+---
+### ☁️ Deployment & Cloud
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vercel" />
+</p>
+
+---
+### 🎨 Frontend
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit" />
+</p>
 
 ---
 ### 🛠️ Developer Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
-## 🎤 AI Training & Communication
-- Technical AI Training
-- Generative AI Education
-- Prompt Engineering
-- Technical Content Development
-- Presentation Design
-- AI Demonstrations
-- Developer Education
-- Learning Material Development
+# 🎤 AI Training & Communication
+* 🎓 Technical AI Training
+* 🤖 Generative AI Education
+* 💡 Prompt Engineering
+* 📝 Technical Content Development
+* 📊 Presentation Design
+* 🎥 AI Demonstrations
+* 👩‍💻 Developer Education
+* 📚 Learning Material Development
+
 ---
-### 🤝 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maham-jamil61/)
+## 🤝 Let's Connect
+<p align="center">
+<a href="www.linkedin.com/in/maham-jamil61">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
-I'm always happy to connect with people who are passionate about:
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Generative AI
-- AI Education
-- Open Source
-- Intelligent Applications
+<a href="mailto:mahamjameel61@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
 
-Let's build, learn, and grow together. 🚀
-
-
-
-
-
+---
+<p align="center">
+Building AI that empowers people, solves real-world problems, and accessible to everyone.
+</p>
