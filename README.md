@@ -87,7 +87,7 @@ I enjoy solving problems through intelligent systems and believe the best way to
 ---
 ## 🤝 Let's Connect
 <p align="center">
-<a href="www.linkedin.com/in/maham-jamil61">
+<a href="https://www.linkedin.com/in/maham-jamil61">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
