@@ -20,7 +20,7 @@ I believe effective AI adoption combines technical understanding, practical impl
 ## 🎓 AI Training & Sessions Delivered
 As an L&D GenAI Associate, I deliver AI training sessions for technical and non-technical professionals, covering AI fundamentals, Generative AI tools, responsible AI practices, and practical applications across business functions.
 
-### 🌟 AI Foundational Sessions
+### 🌟Phase 1 - AI Foundational Sessions
 - **Introduction to AI** — Core AI concepts and terminology
 - **How AI Works** — Understanding the basic principles behind AI systems
 - **Types of AI Technologies** — Exploring different AI technologies and their applications
@@ -31,7 +31,7 @@ As an L&D GenAI Associate, I deliver AI training sessions for technical and non-
 - **Agentic AI: Business Use Cases & Benefits** — Exploring AI agents and their potential business applications
 - **AI Masterclass: Phase 1 Recap** — Consolidating foundational concepts and connecting key topics
 
-### 🏢 Department-Specific AI Sessions
+### 🏢Phase 2 - Department-Specific AI Sessions
 Exploring practical AI applications tailored to different business functions:
 - **Digital Marketing** — LinkedIn lead generation and marketing workflows
 - **Business Development & Sales** — AI applications for lead qualification and sales productivity
