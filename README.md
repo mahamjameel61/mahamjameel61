@@ -17,7 +17,7 @@ Alongside my L&D responsibilities, I explore hands-on AI implementation, includi
 I believe effective AI adoption combines technical understanding, practical implementation, and continuous learning. I'm interested in building useful AI applications while helping others understand how these technologies can support real-world business needs.
 
 ---
-## 🎓 AI Training & Sessions Delivered
+## 🎓 AI Training & Sessions Delivered - IBS-International 
 As an L&D GenAI Associate, I deliver AI training sessions for technical and non-technical professionals, covering AI fundamentals, Generative AI tools, responsible AI practices, and practical applications across business functions.
 
 ### 🌟Phase 1 - AI Foundational Sessions
